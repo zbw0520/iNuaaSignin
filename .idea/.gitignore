@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../iNuaaSignin\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../:\Code\project_java\iNuaaSignin\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
