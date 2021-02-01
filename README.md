@@ -1,7 +1,7 @@
 # iNuaaSignin (i南航自动签到)
 ## Discription
-This is a small piece of work which enable automatic signing in into iNUAA (i南航).<br\>
-This work is managed by MAVEN and written in Java.<br\>
+- This is a small piece of work which enable automatic signing in into iNUAA (i南航).
+- This work is managed by MAVEN and written in Java.
 ## Usage
 
 - Plug in your personal token into the code in main function.
