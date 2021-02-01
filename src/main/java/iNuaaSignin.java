@@ -12,8 +12,11 @@ import java.util.Map;
 public class iNuaaSignin {
     public static void main(String[] args) throws IOException {
         Map<String, String> info = new HashMap<String, String>(50);
-        info.put("username", "041700613");
-        info.put("password", "St200033");
+        /*
+        此处写入用户名和密码
+         */
+        info.put("username", "041800512");
+        info.put("password", "St123456");
         String jsonString = new String(
                 Files.readAllBytes(
                         Paths.get("E:\\Code\\project_java\\iNuaaSignin\\header.json")));
